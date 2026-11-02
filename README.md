@@ -21,9 +21,13 @@ Just login to the desktop and Windhawk will start automatically to apply the twe
 The pause/play, previous and next buttons are hard-coded, therefore there is currently no way to make it stay under the song&author title names.
 ## Tested builds
 I haven't tested all the builds way from 21H2. So help me if you can, appreciate it.
-✅[Experimental] 26H2 - 26300.8289 up to 26340.9843
-⁉️[Not tested] Beta&RP of 26H2 should work
+
+✅[Experimental - 26H2] 26300.8289 up to 26340.9843
+
+⁉️[Insider Programme] 26120.5761 (Beta Channel) up to current Beta and RP of 26H2 should work
+
 ⚠️[Not tested] Windows 11 21H2 to 26120.5761 (Beta Channel)
+
 ❌[Incompatible] Windows 11 builds below 21H2
 # Previews
 Date&Time is fully scaled perfectly and automatically, along with Media Flyout and Network&Battery tray.
