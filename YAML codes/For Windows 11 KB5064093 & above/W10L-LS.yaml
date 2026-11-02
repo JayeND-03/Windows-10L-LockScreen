@@ -1,0 +1,128 @@
+theme: Windows 10L LS
+disableNewStartMenuLayout: ''
+styleConstants:
+  - ''
+controlStyles:
+  - target: StackPanel#TimeAndDatePanel
+    styles:
+      - Orientation=Vertical
+      - VerticalAlignment=Bottom
+      - HorizontalAlignment=Left
+      - Margin=48,0,32,64
+  - target: StackPanel#TimePanel
+    styles:
+      - HorizontalAlignment=Left
+      - Margin=0
+      - Padding=0
+  - target: StackPanel#TimePanel > TextBlock#Time
+    styles:
+      - FontSize=130
+      - FontFamily=Segoe UI Light
+      - FontWeight=Normal
+      - CharacterSpacing=0
+      - Foreground=#FFFFFF
+      - HorizontalAlignment=Left
+      - VerticalAlignment=Center
+      - TextAlignment=Left
+      - Margin=0
+      - Padding=0
+  - target: StackPanel#TimeAndDatePanel > TextBlock#Date
+    styles:
+      - FontSize=56
+      - FontFamily=Segoe UI SemiLight
+      - FontWeight=Normal
+      - CharacterSpacing=-15
+      - Foreground=#FFFFFF
+      - HorizontalAlignment=Left
+      - TextAlignment=Left
+      - Margin=0,-10,0,30
+      - Padding=0
+      - TextWrapping=Wrap
+  - target: Grid#NetworkAndBatteryIcon > Border
+    styles:
+      - Background:=<WindhawkBlur BlurAmount="35" TintColor="#70242424"/>
+      - BorderBrush=#50242424
+      - BorderThickness=0
+      - CornerRadius=8
+      - HorizontalAlignment=Right
+      - Margin=11,0,11,11
+      - Padding=10,10,10,10
+  - target: Grid#MediaTransportControls
+    styles:
+      - Background:=<WindhawkBlur BlurAmount="35" TintColor="#90242424"/>
+      - BorderBrush=#50242424
+      - BorderThickness=0
+      - CornerRadius=8
+      - Width=380
+      - Height=110
+      - MinWidth=0
+      - MinHeight=0
+      - Padding=10,10,10,10
+      - Margin=0,0,0,0
+  - target: Grid#MediaControlsContainer
+    styles:
+      - HorizontalAlignment=Right
+      - Margin=0,0,11,63
+      - MinWidth=0
+  - target: Grid#MediaTransportControls > StackPanel
+    styles:
+      - VerticalAlignment=Right
+      - Margin=0
+      - Padding=0
+  - target: Grid#ThumbnailImageArea
+    styles:
+      - Width=90
+      - Height=90
+      - VerticalAlignment=Center
+      - HorizontalAlignment=Left
+      - Margin=0,0,12,0
+      - RenderTransformOrigin=0.5,0.5
+      - RenderTransform:=<ScaleTransform ScaleX="1.0" ScaleY="1.0" />
+  - target: Grid#MediaTransportControls > StackPanel > TextBlock
+    styles:
+      - FontWeight=Semib
+      - CharacterSpacing=0
+      - TextAlignment=Left
+      - Height=Auto
+      - Padding=0,0,0,0
+  - target: Grid#MediaTransportControls > StackPanel > TextBlock[1]
+    styles:
+      - FontSize=18
+      - Foreground=#FFFFFF
+      - TextWrapping=Wrap
+      - MaxLines=2
+      - TextTrimming=CharacterEllipsis
+      - Margin=0
+  - target: Grid#MediaTransportControls > StackPanel > TextBlock[2]
+    styles:
+      - FontSize=13
+      - Foreground=#C5E3C5
+      - Margin=0,0,0,0
+      - TextWrapping=NoWrap
+      - TextTrimming=CharacterEllipsis
+  - target: Button#PlayPauseButton
+    styles:
+      - Width=36
+      - Height=36
+  - target: Windows.UI.Xaml.Controls.Primitives.RepeatButton#PreviousButton
+    styles:
+      - Width=36
+      - Height=36
+  - target: Windows.UI.Xaml.Controls.Primitives.RepeatButton#NextButton
+    styles:
+      - Width=36
+      - Height=36
+  - target: StackPanel#DefaultTitleStackPanel > TextBlock
+    styles:
+      - FontFamily=Segoe UI Light
+      - FontSize=16
+      - FontWeight=Normal
+      - CharacterSpacing=0
+      - Foreground=#FFFFFF
+themeResourceVariables:
+  - ''
+webContentStyles:
+  - target: ''
+    styles:
+      - ''
+webContentCustomJs: ''

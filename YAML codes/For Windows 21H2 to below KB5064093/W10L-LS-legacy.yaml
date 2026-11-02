@@ -1,0 +1,54 @@
+theme: Windows 10L LS Legacy
+disableNewStartMenuLayout: ''
+styleConstants:
+  - ''
+controlStyles:
+  - target: StackPanel#TimeAndDatePanel
+    styles:
+      - Orientation=Vertical
+      - VerticalAlignment=Bottom
+      - HorizontalAlignment=Left
+      - Margin=48,0,32,64
+  - target: StackPanel#TimePanel
+    styles:
+      - HorizontalAlignment=Left
+      - Margin=0
+      - Padding=0
+  - target: StackPanel#TimePanel > TextBlock#Time
+    styles:
+      - FontSize=130
+      - FontFamily=Segoe UI Light
+      - FontWeight=Normal
+      - CharacterSpacing=0
+      - Foreground=#FFFFFF
+      - HorizontalAlignment=Left
+      - VerticalAlignment=Center
+      - TextAlignment=Left
+      - Margin=0
+      - Padding=0
+  - target: StackPanel#TimeAndDatePanel > TextBlock#Date
+    styles:
+      - FontSize=56
+      - FontFamily=Segoe UI SemiLight
+      - FontWeight=Normal
+      - CharacterSpacing=-15
+      - Foreground=#FFFFFF
+      - HorizontalAlignment=Left
+      - TextAlignment=Left
+      - Margin=0,-10,0,30
+      - Padding=0
+      - TextWrapping=Wrap
+  - target: StackPanel#DefaultTitleStackPanel > TextBlock
+    styles:
+      - FontFamily=Segoe UI Light
+      - FontSize=16
+      - FontWeight=Normal
+      - CharacterSpacing=0
+      - Foreground=#FFFFFF
+themeResourceVariables:
+  - ''
+webContentStyles:
+  - target: ''
+    styles:
+      - ''
+webContentCustomJs: ''
