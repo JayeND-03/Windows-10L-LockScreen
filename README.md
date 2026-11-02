@@ -1,8 +1,11 @@
 # Windows 10L - Lock Screen
 Tutorial for bringing back Windows 10 Lock Screen to Windows 11
 
-Forked from https://github.com/Acercandr0/Solid-Mist
+Forked from https://github.com/Acercandr0/Solid-Mist Thank you.
 
+## Table of contents
+◇[README.md](https://github.com/JayeND-03/Windows-10L-LockScreen/blob/main/README.md)
+◇[Installation](https://github.com/JayeND-03/Windows-10L-LockScreen/blob/main/Installation.md)
 # Previews
 
 |Windows 10 (1809)|Windows 11 (26H2)|
