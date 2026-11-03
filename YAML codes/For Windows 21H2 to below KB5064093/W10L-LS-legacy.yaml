@@ -24,7 +24,7 @@ controlStyles:
       - HorizontalAlignment=Left
       - VerticalAlignment=Center
       - TextAlignment=Left
-      - Margin=0
+      - Margin=-40,0,0,0
       - Padding=0
   - target: StackPanel#TimeAndDatePanel > TextBlock#Date
     styles:
