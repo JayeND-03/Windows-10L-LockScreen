@@ -4,6 +4,7 @@
  - Windows Update is recommended to be paused/stopped completely to prevent tweaks from breaking.
  - Widgets should be turned off for original look and feel.
 # Installation
+Last updated: November-2026
 ## General
  1. Install [Windhawk](https://windhawk.net/)
  2. Look for the mod "Windows 11 Start Menu Styler" BY **m417z**, it often appears in the ★Featured Mods section, or just look it up in the search box.
