@@ -24,11 +24,7 @@ The pause/play, previous and next buttons are hard-coded, therefore there is cur
 ## Tested builds
 I haven't tested all the builds way from 21H2. So help me if you can, appreciate it.
 
-✅[Experimental - 26H2] 26300.8289 up to 26340.9843
-
-⁉️[Insider Programme] 26120.5761 (Beta Channel) up to current Beta and RP of 26H2 should work
-
-⚠️[Not tested] Windows 11 21H2 to 26120.5761 (Beta Channel)
+Un/Tested builds can be found via [Updates.md](https://github.com/JayeND-03/Windows-10L-LockScreen/blob/main/Updates.md)
 
 ❌[Incompatible] Windows 11 builds below 21H2
 # Previews
