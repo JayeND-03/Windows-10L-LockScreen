@@ -8,6 +8,8 @@ Forked from https://github.com/Acercandr0/Solid-Mist Thank you.
 
 ◇ [Installation](https://github.com/JayeND-03/Windows-10L-LockScreen/blob/main/Installation.md)
 
+◇ [Updates](https://github.com/JayeND-03/Windows-10L-LockScreen/blob/main/Updates.md)
+
 ◇ Limitations
 
 ◇ Previews
