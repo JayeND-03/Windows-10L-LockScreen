@@ -11,4 +11,4 @@ Last updated: November-2026
 ✅[Canary&Dev - 24H2] 26100.1
  - Somehow this was the build uupdump.net gave me instead of Beta 26120.5761, weird. But because of that, I tested it and updated the YAML codes.
  - Issue(s): The Time font weight was stuck to default value, font can be changed but not its weight. It looks a bit bold compared to W10. The date is normal. [[Reference image]](https://github.com/JayeND-03/Windows-10L-LockScreen/blob/main/Previews/Tested%20builds/26100.1-24H2.png)
- - This build was tested on a VM, if you have this build or sth near it, tell me how the code performs to see if the issue(s) given is/are not a problem.
+ - This build was tested on a VM, if you have this build or sth close to it, tell me how the code performs to see if the issue(s) given is/are not a problem.
