@@ -1,7 +1,9 @@
 # Windows 10L - Lock Screen
-Tutorial for bringing back Windows 10 Lock Screen to Windows 11
+Miss your Windows 10 Lock screen so bad? Don't worry, this will bring it back to Windows 11.
 
 Forked from https://github.com/Acercandr0/Solid-Mist Thank you.
+
+Last updated: November-2026
 
 ## Table of contents
 ◇ [README (You are currently here)](https://github.com/JayeND-03/Windows-10L-LockScreen/blob/main/README.md)
