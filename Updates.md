@@ -1,4 +1,4 @@
-Last updated: November/2026
+Last updated: November-2026
 # Untested builds
 ⁉️[Insider Programme] 26120.5761 (Beta Channel) up to current Beta and RP of 26H2 should work
 
