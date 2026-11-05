@@ -30,7 +30,7 @@ Un/Tested builds can be found via [Updates.md](https://github.com/JayeND-03/Wind
 
 ❌[Incompatible] Windows 11 builds below 21H2
 # Previews
-Date&Time is fully scaled perfectly and automatically, along with Media Flyout and Network&Battery tray.
+Date&Time is scaled perfectly and automatically, along with Media Flyout and Network&Battery tray.
 |Windows 10 (1809)|Windows 11 (26H2)|
 |--|--|
 |2880x1920 (SP9)|  |
